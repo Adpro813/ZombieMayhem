@@ -1,9 +1,9 @@
 
+//this class will show the loading screen. It will include the compoinents to go to the main parts of the game.
 import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
 import javax.swing.*;
-//this class will show the loading screen. It will include the compoinents to go to the main parts of the game.
 public class StartPanel extends JPanel implements ActionListener {
     Image background,skull;
     Main manager;
@@ -123,5 +123,6 @@ public class StartPanel extends JPanel implements ActionListener {
         }
         return customFont;
     }
+
 
 }

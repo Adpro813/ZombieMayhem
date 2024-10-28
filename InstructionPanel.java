@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
 import java.net.URL;
-//this class will be the panel that pops up when user clicks "Instructions"
+//this class will be the panel that pops up when user clicks "Instructionss"
 public class InstructionPanel extends JPanel implements ActionListener {
     Clip typingSoundClip;
     CardLayout cards;

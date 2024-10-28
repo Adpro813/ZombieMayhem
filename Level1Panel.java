@@ -69,7 +69,7 @@ public class Level1Panel extends JPanel implements MouseMotionListener, MouseLis
                 }
             }
         });
-        
+        //buttons
         returnToMapButton = new JButton("");
         returnToMapButton.setOpaque(false);
         returnToMapButton.setContentAreaFilled(false);

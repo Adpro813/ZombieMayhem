@@ -3,7 +3,7 @@ import java.awt.event.*;
 import java.io.IOException;
 import java.io.InputStream;
 import javax.swing.*;
-//this is the class that pops up when they click go to map, and this will navigate the user to each level.
+//this is the class that pops up when the user clicks go to map, and this will navigate the user to each level.
 public class MapPanel extends JPanel implements ActionListener {
     Image background, ufo,lock;
     Main manager;

@@ -216,7 +216,7 @@ public class Level2Panel extends JPanel implements MouseMotionListener, MouseLis
         }
     }
 
-    // moves the zombies from right to left
+    // moves the zombies from righst to left
     public void animateZombies() {
         boolean lose = false;
         for (Zombie zombie : zombies) {

@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import javax.swing.*;
 
-//this class will be the shop panel, where the user can buy different arrows.
+//this class will be the shops panel, where the user can buy different arrows.
 public class ShopPanel extends JPanel implements MouseListener, ActionListener {
     Image background, arrow1, arrow2, arrow3, coin;
     JLabel coinsLabel, arrow3Label, arrow1Label, arrow2Label;

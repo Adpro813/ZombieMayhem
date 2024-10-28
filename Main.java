@@ -1,6 +1,8 @@
-//Aditya Dendukuri
-//Main.java
-//Zombie Mayhem
+/**
+ * Zombie Mayhem
+ * @author Aditya Dendukuri
+ * @since 4/21/2024
+ **/
 import java.awt.CardLayout;
 import javax.swing.*;
 //this class  will run the starting Panel. It will also hold the main method to run the program. It will also hold the card layout manager.
