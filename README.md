@@ -1,7 +1,7 @@
 # ZombieMayhem
 
 **Description**: 
-*A zombie shooter game developed in native java using Swing libraries.*
+*A multi-level zombie shooter game developed in native java utilizing Swing libraries.*
 
 ## Getting Started
 
