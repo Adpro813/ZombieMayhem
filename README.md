@@ -1,4 +1,9 @@
 # ZombieMayhem
+## Demo
+
+[![Watch the demo](https://img.youtube.com/vi/9Mc64PF-eW0/0.jpg)](https://www.youtube.com/watch?v=9Mc64PF-eW0)
+
+Click the image above to watch the game demo on YouTube! Skip to 2:30 for the actual game.
 
 **Description**: 
 *A multi-level zombie shooter game developed in native java utilizing Swing libraries.*
@@ -20,8 +25,3 @@ Follow these instructions to set up and run the project on your local machine.
    java Main
    ```
 2. Have Fun!
-### Demo
-
-[![Watch the demo](https://img.youtube.com/vi/9Mc64PF-eW0/0.jpg)](https://www.youtube.com/watch?v=9Mc64PF-eW0)
-
-Click the image above to watch the game demo on YouTube! Skip to 2:30 for the actual game.
