@@ -20,3 +20,5 @@ Follow these instructions to set up and run the project on your local machine.
    java Main
    ```
 2. Have Fun!
+3. 
+[Skip to 2:30 for live demo](https://www.youtube.com/watch?v=9Mc64PF-eW0)
